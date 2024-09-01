@@ -1,0 +1,13 @@
+git
+mc
+openresolv
+htop
+curl
+python3-pip
+build-essential
+nodejs
+npm
+default-mysql-client
+fbi
+wireguard
+sshpass
